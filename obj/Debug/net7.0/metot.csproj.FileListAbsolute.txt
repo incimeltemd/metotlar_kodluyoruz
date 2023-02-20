@@ -1,0 +1,15 @@
+C:\Users\casper\Desktop\metot\bin\Debug\net7.0\metot.exe
+C:\Users\casper\Desktop\metot\bin\Debug\net7.0\metot.deps.json
+C:\Users\casper\Desktop\metot\bin\Debug\net7.0\metot.runtimeconfig.json
+C:\Users\casper\Desktop\metot\bin\Debug\net7.0\metot.dll
+C:\Users\casper\Desktop\metot\bin\Debug\net7.0\metot.pdb
+C:\Users\casper\Desktop\metot\obj\Debug\net7.0\metot.csproj.AssemblyReference.cache
+C:\Users\casper\Desktop\metot\obj\Debug\net7.0\metot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\casper\Desktop\metot\obj\Debug\net7.0\metot.AssemblyInfoInputs.cache
+C:\Users\casper\Desktop\metot\obj\Debug\net7.0\metot.AssemblyInfo.cs
+C:\Users\casper\Desktop\metot\obj\Debug\net7.0\metot.csproj.CoreCompileInputs.cache
+C:\Users\casper\Desktop\metot\obj\Debug\net7.0\metot.dll
+C:\Users\casper\Desktop\metot\obj\Debug\net7.0\refint\metot.dll
+C:\Users\casper\Desktop\metot\obj\Debug\net7.0\metot.pdb
+C:\Users\casper\Desktop\metot\obj\Debug\net7.0\metot.genruntimeconfig.cache
+C:\Users\casper\Desktop\metot\obj\Debug\net7.0\ref\metot.dll
